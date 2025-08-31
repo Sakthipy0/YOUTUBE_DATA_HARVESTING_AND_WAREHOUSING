@@ -39,7 +39,7 @@ The project uses **SQL, MongoDB, and Streamlit** to build a user-friendly applic
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/YOUTUBE_DATA_HARVESTING_AND_WAREHOUSING.git  
+git clone https://github.com/Sakthipy0/YOUTUBE_DATA_HARVESTING_AND_WAREHOUSING.git  
 
 # Install dependencies
 pip install -r requirements.txt  
