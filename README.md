@@ -4,41 +4,22 @@
 
 ## Introduction
 
-YouTube Data Harvesting and Warehousing is a project aimed at developing a user-friendly Streamlit application that leverages the power of the Google API to extract valuable information from YouTube channels. The extracted data is then stored in a MongoDB database, subsequently migrated to a SQL data warehouse, and made accessible for analysis and exploration within the Streamlit app.
+Youtube-Data-Harvesting-And-Warehousing YouTube Data Harvesting and Warehousing is a project that intends to provide users with the ability to access and analyse data from numerous YouTube channels. SQL, MongoDB, and Streamlit are used in the project to develop a user-friendly application that allows users to retrieve, save, and query YouTube channel and video data.
 
-## Table of Contents
+## Required Tools and Libraries 
 
-  1. Key Technologies and Skills
-  2. Installation
-  3. Usage
-  - 4.Features
-  - 5.Contributing
-  - 6.License
-  - 7.Contact
+  * Python :Python:
+  * Streamlit :Package:
+  * Google API Client :Package:
+  * PostgerSQL :Console:
 
-## Key Technologies and Skills
+## Features 
+The following functions are available in the YouTube Data Harvesting and Warehousing application: Retrieval of channel and video data from YouTube using the YouTube API.
 
-  * Python
-  * SQL
-  * MongoDB
-  * Pandas
-  * Application Programming Interface (API)
-  * Streamlit
-  * Plotly 
-## Installation
+Storage of data in a MongoDB database as a data lake.
 
-To run this project, you need to install the following packages:
-```python
-pip install google-api-python-client
-pip install pymongo
-pip install pandas
-pip install psycopg2
-pip install streamlit
-pip install plotly
-```
-## Usage
-To use this project, follow these steps:
-  - 1.Clone the repository:''
-  - 2.Install the required packages:''
-  - 3.Run the Streamlit app: ''
-  - 4.Access the app in your browser at:''
+Migration of data from the data lake to a SQL database for efficient querying and analysis.
+
+Search and retrieval of data from the SQL database using different search options.
+
+
