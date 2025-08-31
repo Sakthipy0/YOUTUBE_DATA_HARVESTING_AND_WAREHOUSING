@@ -8,9 +8,9 @@ YouTube Data Harvesting and Warehousing is a project aimed at developing a user-
 
 ## Table of Contents
 
-  - 1.Key Technologies and Skills
-  - 2.Installation
-  - 3.Usage
+  1. Key Technologies and Skills
+  2. Installation
+  3. Usage
   - 4.Features
   - 5.Contributing
   - 6.License
