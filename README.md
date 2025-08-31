@@ -8,13 +8,13 @@ YouTube Data Harvesting and Warehousing is a project aimed at developing a user-
 
 ## Table of Contents
 
-  -1.Key Technologies and Skills
-  -2.Installation
-  -3.Usage
-  -4.Features
-  -5.Contributing
-  -6.License
-  -7.Contact
+  - 1.Key Technologies and Skills
+  - 2.Installation
+  - 3.Usage
+  - 4.Features
+  - 5.Contributing
+  - 6.License
+  - 7.Contact
 
 ## Key Technologies and Skills
 
@@ -38,7 +38,7 @@ pip install plotly
 ```
 ## Usage
 To use this project, follow these steps:
-  -1.Clone the repository:''
-  -2.Install the required packages:''
-  -3.Run the Streamlit app: ''
-  -4.Access the app in your browser at:''
+  - 1.Clone the repository:''
+  - 2.Install the required packages:''
+  - 3.Run the Streamlit app: ''
+  - 4.Access the app in your browser at:''
